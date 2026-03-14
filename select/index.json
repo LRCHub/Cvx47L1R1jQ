@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "hi cheese",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T11:37:49.702992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hi cheese",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_hi_cheese_7co.txt"
+    }
+  ]
+}
